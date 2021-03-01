@@ -1,0 +1,61 @@
+@media screen and (max-width:1024px)
+ {
+
+    .repre-pic{
+        
+        max-height: 600px;
+        background-position: 90% 40px;
+        background-position-x:right;
+    
+    
+    
+    }
+
+   
+    .design{
+        max-height: 600px;
+    }
+
+
+}
+
+@media screen and (max-width:768px)
+{
+
+
+    .img-hand img{
+       display:none;
+
+    }
+    .repre-pic {
+        width: 100%;
+        text-align: center;
+        background: none;
+    }
+   
+
+
+
+.design .col-2-1 img{
+    display: none;
+
+}
+.design .col-2-1{
+    width: 100%;
+    text-align: center;
+}
+
+.design{
+    
+ 
+    padding-top: 10px;
+}
+.col-3-1{
+    width: 100%;
+    text-align: center;
+}
+.d1{
+    margin-bottom: 5px;
+}
+
+}
